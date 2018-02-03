@@ -18,7 +18,7 @@ displayEmployees();
 
 //empty inputs
 $('#firstNameIn').val( '' );
-$('#LastNameIn').val( '' );
+$('#lastNameIn').val( '' );
 $('#idNumberIn').val( '' );
 $('#jobTitleIn').val( '' );
 $('#annualSalaryIn').val( '' );
