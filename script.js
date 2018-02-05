@@ -35,8 +35,8 @@ output.empty();
 for(var i=0; i<employees.length; i++){
 
 var outputString = '<li>';
-outputString += employees[ i ].firstName + ":" + ' ';
-outputString += employees[ i ].lastName + ' ';
+outputString += employees[ i ].firstName + ' ';
+outputString += employees[ i ].lastName + ":" + ' ';
 outputString += employees[ i ].idNumber + ' ';
 outputString += employees[ i ].jobTitle + ' ';
 outputString += employees[ i ].annualSalary + ' ';
